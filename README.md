@@ -1,6 +1,9 @@
 # Smart Bank Loan Management & Risk Prediction System
 
 A full-stack application for bank loan applications, risk prediction using ML, and admin management.
+![](https://github.com/Pu5hk4r/SmartBankLoanManagementSystem/blob/main/assets/AnimationAdmin.gif)
+![](https://github.com/Pu5hk4r/SmartBankLoanManagementSystem/blob/main/assets/AnimationForm.gif)
+![](https://github.com/Pu5hk4r/SmartBankLoanManagementSystem/blob/main/assets/AnimationFastAPi.gif)
 
 ## Features
 - User registration/login with JWT auth and roles (user/admin).
