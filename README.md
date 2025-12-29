@@ -1,4 +1,7 @@
 # Smart Bank Loan Management & Risk Prediction System
+A backend-driven loan processing system built with Python (FastAPI) and PostgreSQL.  
+This project demonstrates real API design, business logic, data validation, and stateful workflows.  
+A machine learning model provides optional risk scoring, but the core system focuses on consistency and correctness.
 
 A full-stack application for bank loan applications, risk prediction using ML, and admin management.
 ![](https://github.com/Pu5hk4r/SmartBankLoanManagementSystem/blob/main/assets/AnimationAdmin.gif)
